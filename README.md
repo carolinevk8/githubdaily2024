@@ -3,7 +3,8 @@
 
 ### ⭐️ Connect 
 
-
+[![GitHub](https://img.shields.io/github/followers/salnetx?label=follow&style=social)](https://github.com/salnetx)
+[![Twitter](https://img.shields.io/twitter/follow/salnetx?style=social)](https://twitter.com/salnetx)
 
 
 #### 👆 [ 😎 Add Your Github & X 😎 ] 
