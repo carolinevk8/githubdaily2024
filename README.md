@@ -1,4 +1,4 @@
-# githubdaily 2024. [👉Learn more👈](https://salnet.xyz/githubdaily)
+# githubdaily 2024. [👉Learn more👈](https://githubdaily.salnet.xyz)
 ## Fork this project, add your X/twitter username and GitHub username, and then create a pull request.
 
 ### ⭐️ Connect 
